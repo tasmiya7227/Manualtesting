@@ -1,4 +1,4 @@
-# Manualtesting
+# Manual Testing
 
 This repository is for final assessment including Manual testing, Jmeter and Big Picture.
 
